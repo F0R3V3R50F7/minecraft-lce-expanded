@@ -1,4 +1,4 @@
-<img src="https://github.com/F0R3V3R50F7/minecraft-lce-ps3-enhanced/blob/main/logo.png?raw=true" align="right" height="138px">
+<img src="https://github.com/F0R3V3R50F7/minecraft-lce-ps3-enhanced/blob/main/logo.png?raw=true" align="center" height="170px">
 <div align="center">
   <h1>Minecraft: Legacy Console Edition (Expanded) is a mod for MC:LCE which carries over some modern features and updates from Minecraft: Bedrock Edition within limitations. </h3>
 
