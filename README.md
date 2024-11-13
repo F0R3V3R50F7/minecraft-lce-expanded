@@ -1,8 +1,6 @@
 <img src="https://github.com/F0R3V3R50F7/minecraft-lce-ps3-enhanced/blob/main/logo.png?raw=true" align="right" height="138px">
 <div align="center">
-  <h1>Minecraft: Enhanced (Mod for Minecraft: Playstation 3 Edition)</h1>
-  <h3>A complete port of the Minecraft: Enhanced mod for Minecraft: Playstation 3 Edition, originally made by PGTeam for the PSVita and ported by me. | F0R3V3R50F7 in collaboration with PGTeam</h3>
-  <h5><i>Status: Mostly Finished and Working.</i></h5>
+  <h1>Minecraft: Legacy Console Edition (Expanded) is a mod for MC:LCE which carries over some modern features and updates from Minecraft: Bedrock Edition within limitations. </h3>
 
 
 </div>
