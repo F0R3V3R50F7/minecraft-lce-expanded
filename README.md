@@ -20,26 +20,10 @@ Happy Crafting!
 
 Changelog:
 
-
-Menus:
-
     Re-Coloured HUD and UI - Interface now has a "Dark-Mode" appearance.
 
     Updated Logo.
-
-    Main menu background updated with some official Minecraft: Bedrock promo-material.
-
-
-
-New DLC Packs:
-
-    Added "Programmer Art/Dark Mode" resource pack featuring the default textures and models from Minecraft: Legacy Console Edition and an optional darker in-game UI.
-
-    Added "Vanilla+/Dark Mode" resource pack featuring updates models, music and textures from Minecraft: Bedrock Edition and an optional darker in-game UI. 
     
-    
-Text:
-
     Updated splash text.
     
     Changed 'Load' menu text to 'My Worlds'.
@@ -52,7 +36,11 @@ Text:
 
     Changed 'Zombie Pigman to 'Zombified Piglin'.
 
+    Main menu background updated with some official Minecraft: Bedrock promo-material.
 
+    Added "Programmer Art/Dark Mode" resource pack featuring the default textures and models from Minecraft: Legacy Console Edition and an optional darker in-game UI.
+
+    Added "Vanilla+/Dark Mode" resource pack featuring updates models, music and textures from Minecraft: Bedrock Edition and an optional darker in-game UI. 
 
 
 ---
