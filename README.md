@@ -12,7 +12,7 @@
 
 2) Place NPUB31419-LCE-Expanded.pkg in /dev_hdd0/packages on your Playstation 3.
 
-3) Navigate to the package manager on the XMB, then find and install NPUB31419-Minecraft-Enhanced.pkg.
+3) Navigate to the package manager on the XMB, then find and install NPUB31419-LCE-Expanded.pkg.
 
 Happy Crafting!
 
