@@ -1,4 +1,4 @@
-<img src="https://github.com/F0R3V3R50F7/minecraft-lce-ps3-enhanced/blob/main/logo.png?raw=true" align="center" height="138px">
+<img src="https://github.com/F0R3V3R50F7/minecraft-lce-ps3-enhanced/blob/main/logo.png?raw=true" align="right" height="138px">
 <div align="center">
   <h1>Minecraft: Enhanced (Mod for Minecraft: Playstation 3 Edition)</h1>
   <h3>A complete port of the Minecraft: Enhanced mod for Minecraft: Playstation 3 Edition, originally made by PGTeam for the PSVita and ported by me. | F0R3V3R50F7 in collaboration with PGTeam</h3>
